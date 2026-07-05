@@ -25,40 +25,15 @@ project/
 ├── css/
 │   └── style.css
 ├── images/
-├── fonts/
 └── README.md
 ```
 
----
-
-## ✨ Features
-
-- ✅ Semantic HTML5
-- ✅ Vanilla CSS only
-- ✅ CSS Variables
-- ✅ Flexbox Layout
-- ✅ CSS Grid
-- ✅ Responsive Design
-- ✅ Optimized Images
-- ✅ Clean & Reusable Code
-
----
-
-## 📱 Responsive Breakpoints
-
-| Device | Width |
-|--------|-------|
-| 💻 Desktop | 1440px |
-| 📱 Tablet | 768px |
-| 📱 Mobile | 375px |
 
 ### Responsive Features
 
 - No horizontal scrolling
 - Responsive images
 - Flexible layout
-- Proper spacing on all devices
-- Mobile-friendly navigation
 
 ---
 
@@ -83,42 +58,25 @@ project/
 
 ## 🖼️ Screenshots
 
-### 💻 Desktop
 
-> Add your desktop screenshot here.
+<img width="925" height="897" alt="image" src="https://github.com/user-attachments/assets/a2b56e7b-4e7e-44e4-963c-9c997d9e3d49" />
+<img width="893" height="949" alt="image" src="https://github.com/user-attachments/assets/57e63a39-7c7c-4a9f-8ba2-392b3e5b7a6e" />
+<img width="908" height="823" alt="image" src="https://github.com/user-attachments/assets/c1010a7f-040b-4be0-b556-47f4194092c3" />
+<img width="942" height="420" alt="image" src="https://github.com/user-attachments/assets/a9e73d4d-7951-4fb2-a0b2-4b7fcbebf0fd" />
 
-```
-images/desktop.png
+
+
+
 ```
 
 ---
 
-### 📱 Tablet
-
-> Add your tablet screenshot here.
-
-```
-images/tablet.png
-```
-
----
-
-### 📱 Mobile
-
-> Add your mobile screenshot here.
-
-```
-images/mobile.png
-```
-
----
 
 ## ⚡ Challenges Faced
 
 - Matching the Figma design accurately.
 - Making the layout responsive.
 - Maintaining consistent spacing.
-- Ensuring images scale correctly.
 - Writing reusable and clean CSS.
 
 ---
@@ -129,18 +87,7 @@ images/mobile.png
 
 ✔ Responsive Layout
 
-✔ Vanilla CSS
-
-✔ CSS Variables
-
 ✔ Flexbox & Grid
-
-✔ Mobile Friendly
 
 ✔ Clean Code
 
----
-
-<p align="center">
-Made with ❤️ using HTML & CSS
-</p>
