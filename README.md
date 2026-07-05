@@ -6,10 +6,6 @@
 Responsive webpage built using semantic HTML5 and vanilla CSS.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Semantic+HTML5;Responsive+Design;Vanilla+CSS;Flexbox+%26+Grid;Frontend+Assignment">
-</p>
-
 ---
 
 ## 📖 Project Overview
