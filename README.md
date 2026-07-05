@@ -59,10 +59,8 @@ project/
 ## 🖼️ Screenshots
 
 
-<img width="925" height="897" alt="image" src="https://github.com/user-attachments/assets/a2b56e7b-4e7e-44e4-963c-9c997d9e3d49" />
-<img width="893" height="949" alt="image" src="https://github.com/user-attachments/assets/57e63a39-7c7c-4a9f-8ba2-392b3e5b7a6e" />
-<img width="908" height="823" alt="image" src="https://github.com/user-attachments/assets/c1010a7f-040b-4be0-b556-47f4194092c3" />
-<img width="942" height="420" alt="image" src="https://github.com/user-attachments/assets/a9e73d4d-7951-4fb2-a0b2-4b7fcbebf0fd" />
+<img width="1350" height="3210" alt="_C__Users_CpdeLine_Desktop_FrontEndAssigment_index html" src="https://github.com/user-attachments/assets/eb147a5a-08d4-4bd1-b6b0-06be39c5dcc6" />
+
 
 
 
