@@ -59,7 +59,7 @@ project/
 ## 🖼️ Screenshots
 
 
-<img width="1350" height="3210" alt="_C__Users_CpdeLine_Desktop_FrontEndAssigment_index html" src="https://github.com/user-attachments/assets/eb147a5a-08d4-4bd1-b6b0-06be39c5dcc6" />
+<img width="1350" height="3210" alt="127 0 0 1_5502_" src="https://github.com/user-attachments/assets/868afe9f-3b26-493b-9eb6-6db9126f3815" />
 
 
 
